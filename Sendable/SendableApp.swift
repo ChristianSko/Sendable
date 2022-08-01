@@ -11,7 +11,7 @@ import SwiftUI
 struct SendableApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SendableView()
         }
     }
 }
